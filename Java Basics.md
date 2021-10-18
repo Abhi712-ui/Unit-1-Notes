@@ -47,11 +47,11 @@
 ## Escape Sequences
 
 Escape sequences are prefixed with a \ (backslash)
-\n – newline
-\" – quotation mark
-\t – tab
-\\\\ - backslash
-Why do we need this one?
+ - \n – newline
+ - \" – quotation mark
+ - \t – tab
+ - \\\\ - backslash
+ - Why do we need this one?
 
 
 
@@ -61,7 +61,7 @@ Why do we need this one?
 #### Procedural Decomposition
 
 Imagine an algorithm for making cookies:
-- Making sugar cookies
+ - Making sugar cookies
  - Mix the dry ingredients
  - Cream the butter and sugar
  - Beat in the eggs
@@ -73,7 +73,7 @@ Imagine an algorithm for making cookies:
  - Mix the ingredients for the frosting
  - Frost the cookies
 
-What if we were making a double batch?
+ What if we were making a double batch?
 ...
  - Set the oven to 400°
  - Put the first batch of cookies in the oven
